@@ -16,6 +16,5 @@
 --  0  15137.63
 --
 --  >>> Escriba su codigo a partir de este punto <<<
-SELECT c12 *FROM tbl0 SELECT SUM(c12) 
-
+SELECT c12 * FROM tbl0 SELECT SUM(c12) 
 --
