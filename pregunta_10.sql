@@ -42,3 +42,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+SELECT c03 FROM tbl0
