@@ -39,4 +39,5 @@
 --  2  C  CCCE
 --
 --  >>> Escriba su codigo a partir de este punto <<<
-SELECT * FROM tbl1 WHERE SUBSTRING(c16,1,1) = SUBSTRING(K0,1,1)
+SELECT c16,K0 FROM tbl1 WHERE K0 = SUBSTR(c16,1,1);
+
